@@ -1,5 +1,12 @@
 <p align="center"> <img src="https://github.com/Eanya-Tonic/CCTV_Viewer/blob/master/app/src/main/res/drawable/icon.png" style="width:200px;" /> </p>  <h1 align="center">电视浏览器</h1>  <p align="center">一个电视机顶盒及Android TV收看网页视频的浏览器 </p>
 
+**************************
+IPTV浏览器(https://github.com/Eanya-Tonic/CCTV_Viewer) 是基于官方网站的简易IPTV收看软件。它是基于webView实现的，也就是说播放的是网页上的视频，所以在有些电视盒子上可能会有一些bug
+
+在电视上可以直接使用按钮切换频道，或者点击菜单来快速选择频道。只是在切换的时候没有那么流畅，会退出当前频道再切换为其他频道
+
+安装的方法也非常简单，只需打开github的releases页面，下载最新版的apk后直接在电视上安装即可
+**************************
 
 ## 下载安装包
 从Github Release下载：https://github.com/Eanya-Tonic/CCTV_Viewer/releases/latest
