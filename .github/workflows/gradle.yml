@@ -30,7 +30,7 @@ jobs:
     - uses: actions/upload-artifact@v4
       with:
           name: CCTV_Viewer_${{ env.SHORT_SHA }}
-          path: ./app/build/outputs/apk/debug/app-debug.apk
+          path: ./app/build/outputs/apk/debug/dianshiliulanqiTV.apk
 
   build-X5:
 
@@ -57,4 +57,4 @@ jobs:
     - uses: actions/upload-artifact@v4
       with:
           name: CCTV_Viewer_${{ env.SHORT_SHA }}-X5
-          path: ./app/build/outputs/apk/debug/app-debug.apk
+          path: ./app/build/outputs/apk/debug/dianshiliulanqiTV_x5.apk
